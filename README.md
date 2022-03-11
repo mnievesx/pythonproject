@@ -2,11 +2,9 @@
 
 Create a random quote generator based on Spongebob show with use of ascii art and SpoNgEMocK case.
 
-## Getting Started
+## Inspired By
 
-These instructions will get you a copy of the project up and running on your local machine
-for development and testing purposes. See deployment for notes on how to deploy the project
-on a live system.
+https://github.com/mnievesx/pythonproject/issues/1#issue-1166745615
 
 ### Prerequisites
 
