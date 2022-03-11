@@ -4,7 +4,7 @@ Create a random quote generator based on Spongebob show with use of ascii art an
 
 ## Inspired By
 
-https://github.com/mnievesx/pythonproject/issues/1#issue-1166745615
+![sb](https://user-images.githubusercontent.com/66223914/157932504-e2945f50-6c55-4a32-aad5-f9544382ccaa.jpg)
 
 ### Prerequisites
 
